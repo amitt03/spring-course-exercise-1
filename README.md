@@ -1,7 +1,9 @@
 Spring Course Exercise 1
 ========================
 
-1. Create a Spring project that contains **two** beans from the existing java code: *Library*, *BookDao*.
+This project contains two simple Java classes: **Library**, **BookDao**.
+
+1. Create a Spring project that contains **two** beans from the existing java code: **Library**, **BookDao**.
   - Use **AppConfig** class in order to configure these beans
 
 2. Inside **Main.main()** instantiate a spring container which includes the above beans, and then:
